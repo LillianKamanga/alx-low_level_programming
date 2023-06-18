@@ -12,7 +12,7 @@ int main(void)
 	int c;
 
 	for (c = 25; c >= 0; c--)
-	putchar(48 + c);
+	putchar(97 + c);
 	putchar('\n');
 
 return (0);
