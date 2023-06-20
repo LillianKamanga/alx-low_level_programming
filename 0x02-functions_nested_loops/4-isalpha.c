@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _isalpha - checks sfor upper and lower case
- * @c - is the paramenter used for checking
+ * @c:  The paramenter to be Checked
  * Return: if charecter is uppercase or lowercase
  */
 
